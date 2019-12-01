@@ -28,14 +28,16 @@ h2{
 	text-align:center;
 }
 
-h3{
+h5{
 	margin-top:15px;
 	margin-bottom:40px;
 	padding:0px;
 	color:rgb(50,50,50);
 	font-family:"Modern No. 20", sans-serif;
-	font-size:em;
+	font-size:15;
 	text-align:center;
+	width: 900px;
+
 }
 
 h4{
@@ -50,7 +52,7 @@ h4{
 p{
 	color:rgb(50,50,50);
 	font-family:"Modern No. 20", sans-serif;
-	font-size:3.5em;
+	font-size:18;
 	text-align:center;
 }
 
@@ -71,6 +73,7 @@ p{
 	font-size:1em;
 	background-color:rgb(200,200,200);
 	height:240px;
-	width:500px;
+	width:875px;
 	text-align:center;
-}	
+	align: left;
+}
