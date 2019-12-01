@@ -1,0 +1,76 @@
+body{
+	margin:0px;
+}
+
+/*Home/Start Page*/
+
+#container1{
+	background-color:rgb(220, 220, 220);
+	font-family:"Modern No. 20", sans-serif;
+	width:1536px;
+}
+
+h1{
+	margin:0px auto;
+	padding:0px;
+	color:rgb(0,0,0);
+	font-family:"Modern No. 20", sans-serif;
+	font-size:4em;
+	text-align:center;
+}
+
+h2{
+	margin:0px auto;
+	padding:0px;
+	color:rgb(0,0,0);
+	font-family:"Modern No. 20", sans-serif;
+	font-size:em;
+	text-align:center;
+}
+
+h3{
+	margin-top:15px;
+	margin-bottom:40px;
+	padding:0px;
+	color:rgb(50,50,50);
+	font-family:"Modern No. 20", sans-serif;
+	font-size:em;
+	text-align:center;
+}
+
+h4{
+	margin:15px;
+	padding:0px;
+	color:rgb(50,50,50);
+	font-family:"Modern No. 20", sans-serif;
+	font-size:2em;
+	text-align:center;
+}
+
+p{
+	color:rgb(50,50,50);
+	font-family:"Modern No. 20", sans-serif;
+	font-size:3.5em;
+	text-align:center;
+}
+
+#graph{
+	margin:0 px auto;
+	padding:20px;
+	color:rgb(50,50,50);
+	font-family:"Modern No. 20", sans-serif;
+	align-content:center;
+	text-align:center;
+}
+
+#explaination{
+	margin:0px auto;
+	padding:30px;
+	color:rgb(50,50,50);
+	font-family:"Modern No. 20", sans-serif;
+	font-size:1em;
+	background-color:rgb(200,200,200);
+	height:240px;
+	width:500px;
+	text-align:center;
+}	
