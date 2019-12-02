@@ -8,6 +8,9 @@ body{
 	background-color:rgb(220, 220, 220);
 	font-family:"Modern No. 20", sans-serif;
 	width:1536px;
+	.container .p{
+		align: left;
+	}
 }
 
 h1{
@@ -73,6 +76,84 @@ p{
 	font-size:1em;
 	background-color:rgb(200,200,200);
 	height:240px;
+	width:875px;
+	text-align:center;
+	align: left;
+}
+
+#explaination-teams{
+	margin:0px auto;
+	padding:30px;
+	color:rgb(50,50,50);
+	font-family:"Modern No. 20", sans-serif;
+	font-size:1em;
+	background-color:rgb(200,200,200);
+	height:110px;
+	width:875px;
+	text-align:center;
+	align: left;
+}
+
+#explaination-details-small{
+	margin:0px auto;
+	padding:30px;
+	color:rgb(50,50,50);
+	font-family:"Modern No. 20", sans-serif;
+	font-size:1em;
+	background-color:rgb(200,200,200);
+	height:100px;
+	width:875px;
+	text-align:center;
+	align: left;
+}
+
+#explaination-details-small-1{
+	margin:0px auto;
+	padding:30px;
+	color:rgb(50,50,50);
+	font-family:"Modern No. 20", sans-serif;
+	font-size:1em;
+	background-color:rgb(200,200,200);
+	height:50px;
+	width:875px;
+	text-align:center;
+	align: left;
+}
+
+#explaination-details-small-2{
+	margin:0px auto;
+	padding:30px;
+	color:rgb(50,50,50);
+	font-family:"Modern No. 20", sans-serif;
+	font-size:1em;
+	background-color:rgb(200,200,200);
+	height:110px;
+	width:875px;
+	text-align:center;
+	align: left;
+}
+
+#explaination-details-large{
+	margin:0px auto;
+	padding:30px;
+	color:rgb(50,50,50);
+	font-family:"Modern No. 20", sans-serif;
+	font-size:1em;
+	background-color:rgb(200,200,200);
+	height:140px;
+	width:875px;
+	text-align:center;
+	align: left;
+}
+
+#explaination-details-large-1{
+	margin:0px auto;
+	padding:30px;
+	color:rgb(50,50,50);
+	font-family:"Modern No. 20", sans-serif;
+	font-size:1em;
+	background-color:rgb(200,200,200);
+	height:180px;
 	width:875px;
 	text-align:center;
 	align: left;
